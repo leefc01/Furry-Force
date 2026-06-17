@@ -1,0 +1,8 @@
+{
+  "name": "Furry Force: Tails of Valor",
+  "description": "A 2.5D math-runner combat game where animal heroes rescue corrupted critters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
